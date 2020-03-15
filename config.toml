@@ -104,7 +104,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "facebook"
-    url  = "htps://facebook.com/siddhantrimal"
+    url  = "https://facebook.com/siddhantrimal"
 
   [[params.social]]
     name = "github"
